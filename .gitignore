@@ -1,0 +1,14 @@
+*.swp
+.~
+thumbs.db
+*.o
+*.lib
+*.so
+*.out
+*.sdf
+*.sln
+Debug/
+ipch/
+Release/
+git-list-tracked
+git-list-untracked
